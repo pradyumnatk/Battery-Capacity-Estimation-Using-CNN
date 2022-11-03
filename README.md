@@ -2,15 +2,14 @@
 Contains models developed for capacity estimation of batteries using EIS Impedance Curves and CC-CV Charging curves
 
 
-SoH Impedance - This file contains code based on the following paper
+1. SoH Impedance - This file contains code based on the following paper
 
 SOH Estimation of the Battery using CNN and Impedance Spectrum
 https://www.semanticscholar.org/paper/SOH-Estimation-of-the-Battery-using-CNN-and-Pradyumna-Khan/ff17f122463dfd0bd0cc7a8a04b03788ee9566fb
 
-The model and results mentioned in the paper are not the same as in this file.
+The model and results mentioned in the paper may not match with the results in the file due to some changes made for testing different things
 
-
-SoH CCCV - This file contains code based on the following paper
+2. SoH CCCV - This file contains code based on the following paper
 
 A deep learning method for online capacity estimation of lithium-ion batteries
 https://www.sciencedirect.com/science/article/abs/pii/S2352152X19302233
