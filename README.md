@@ -6,3 +6,16 @@ SoH Impedance - This file contains code based on the following paper
 
 SOH Estimation of the Battery using CNN and Impedance Spectrum
 https://www.semanticscholar.org/paper/SOH-Estimation-of-the-Battery-using-CNN-and-Pradyumna-Khan/ff17f122463dfd0bd0cc7a8a04b03788ee9566fb
+
+The model and results mentioned in the paper are not the same as in this file.
+
+
+SoH CCCV - This file contains code based on the following paper
+
+A deep learning method for online capacity estimation of lithium-ion batteries
+https://www.sciencedirect.com/science/article/abs/pii/S2352152X19302233
+
+The model developed is only to check the implementation of the idea presented in the paper.
+
+More accurate predictions may be possible with parameter tuning of the model.
+
